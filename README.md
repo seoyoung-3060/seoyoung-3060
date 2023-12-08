@@ -1,6 +1,3 @@
-
-<h4 align="center"> 👋 Hi, there 👋 </h4>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%20seoyoung's%20github&fontSize=50" /></p>
 
