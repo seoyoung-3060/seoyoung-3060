@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%20seoyoung's%20github&fontSize=50" /></p>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%20seoyoung's%20github&fontColor=000000&fontSize=50" /></p>
 
 <h4 align="center"> 📚 Skills I've Used 📚 </h4>
 
