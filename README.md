@@ -29,7 +29,7 @@
 
 <h4 align="center"> 🌝 what I've done 🌝 </h4>
 <h5 align="center"> - (2023.10~2023.11) CJ Olive Networks AI Hackathon 통합형 보이스피싱, 피싱문자 판별 AI 모델 개발 </h5>
-<h5 align="center"> - (2023.04~2023.08) Powershell 기반 악성 스크립트 탐지 툴 개발 </h5>
+<h5 align="center"> - (2022.04~2022.08) Powershell 기반 악성 스크립트 탐지 툴 개발 </h5>
 
 
 
