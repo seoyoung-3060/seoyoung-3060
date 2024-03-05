@@ -22,13 +22,14 @@
 
 <!--
 <h4 align="center"> 🔥 I'm currently working on ... 🔥 </h4>
-<h5 align="center"> - K-digital platform AI 경진대회 </h5>
+<h5 align="center"> - 가짜연구소 8기 러너 </h5>
 -->
 
 
 <br>
 
 <h4 align="center"> 🌝 what I've done 🌝 </h4>
+<h5 align="center"> - (2024.1~2024.2) LGAimers 교육 및 해커톤 참여 </h5>
 <h5 align="center"> - (2023.12.8~13) 🏆K-digital platform AI 장려상 수상 </h5>
 <h5 align="center"> - (2023.12.8~13) K-digital platform AI 경진대회 시각장애인을 위한 월경앱 개발 </h5>
 <h5 align="center"> - (2023.10~2023.11) CJ Olive Networks AI Hackathon 통합형 보이스피싱, 피싱문자 판별 AI 모델 개발 </h5>
