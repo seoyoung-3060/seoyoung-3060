@@ -42,7 +42,8 @@
 
 <h4 align="center">✨ Follow me! ✨</h4>
 <p align="center">
-  <a href="https://young3060.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+  <a href="linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B9%80%EC%84%9C%EC%98%81-undefined-b82b442a0/"/></a>&nbsp
+  <a href="https://young3060.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://young3060.tistory.com"/></a>&nbsp
   <a href="mailto:ksy654333@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ksy654333@gmail.com"/></a>
 </p>
 
