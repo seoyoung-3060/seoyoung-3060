@@ -20,10 +20,10 @@
 
 <br>
 
-
+<!--
 <h4 align="center"> 🔥 I'm currently working on ... 🔥 </h4>
 <h5 align="center"> - 가짜연구소 8기 러너 [Hugging Face KREW] Hugging Face 공식문서 번역 </h5>
-
+-->
 
 
 <br>
@@ -40,7 +40,7 @@
 
 <br>
 
-<h4 align="center">✨ Follow me! ✨</h4>
+<h4 align="center">📫 How to reach me: </h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/seoyoung-kim-b82b442a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seoyoung-kim-b82b442a0/"/></a>&nbsp
   <a href="https://young3060.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://young3060.tistory.com"/></a>&nbsp
