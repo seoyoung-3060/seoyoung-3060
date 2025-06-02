@@ -29,6 +29,8 @@
 <br>
 
 <h4 align="center"> 🌝 what I've done 🌝 </h4>
+<h5 align="center"> - (2024.5~2024.8) "북와이즈" 사용자 맞춤형 공공도서관 도서 추천 서비스 개발 </h5>
+<h5 align="center"> - (2024.3~2024.6) [HuggingFace CREW] NLP Course 공식문서 번역 및 스터디 </h5>
 <h5 align="center"> - (2024.1~2024.2) LGAimers 4기 수료 (교육 및 해커톤) </h5>
 <h5 align="center"> - (2023.12.8~13) 🏆K-digital platform AI 장려상 수상 </h5>
 <h5 align="center"> - (2023.12.8~13) K-digital platform AI 경진대회 시각장애인을 위한 월경앱 개발 </h5>
