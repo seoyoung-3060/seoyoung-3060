@@ -22,7 +22,7 @@
 
 <!--
 <h4 align="center"> 🔥 I'm currently working on ... 🔥 </h4>
-<h5 align="center"> - 가짜연구소 8기 러너 [Hugging Face KREW] Hugging Face 공식문서 번역 </h5>
+<h5 align="center"> - (주) 씨지인사이드 인턴 </h5>
 -->
 
 
