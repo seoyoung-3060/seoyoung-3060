@@ -20,10 +20,6 @@
 
 <br>
 
-<!--
-<h4 align="center"> 🔥 I'm currently working on ... 🔥 </h4>
-<h5 align="center"> - (주) 씨지인사이드 인턴 </h5>
--->
 
 
 <br>
